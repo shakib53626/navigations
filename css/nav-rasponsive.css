@@ -1,0 +1,33 @@
+/* ****************************************
+	Navigation-rasponsive css code Start
+****************************************** */
+
+@media screen and (max-width: 991px) {
+	
+	.collapse{
+		text-align: center;
+	}
+	.delivary{
+		background-color: #347b25;
+		padding: 10px 0;
+	}
+	.delivary span{
+		color: white !important;
+		font-weight: 600;
+		margin-left: 30px;
+	}
+	.navbar-nav li{
+		background-color: skyblue !important;
+	}
+	.navbar-nav li:hover{
+		background-color: #659bb0 !important; 
+	}
+	.navbar-nav li a:hover{
+		color: white !important;
+	}
+
+}
+
+/* ****************************************
+	Navigation-rasponsive css code End
+****************************************** */

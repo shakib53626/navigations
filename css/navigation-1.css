@@ -1,0 +1,25 @@
+*{
+	padding:0;
+	margin: 0;
+}
+header{
+	margin-top: 10px;
+	background-color: #ffc657;
+}
+.collapse{
+	flex-direction: column;
+	align-items: flex-end;
+}
+.delivary span{
+	font-family: 'Montserrat', sans-serif;
+	color: #3d2514 !important;
+	font-size: 16px;
+}
+.nav-item .nav-link{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 20px;
+	margin-left: 40px;
+	margin-top: 10px;
+	color: #3d2514 !important;
+	padding: 0 !important;
+}
