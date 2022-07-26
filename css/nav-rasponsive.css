@@ -17,6 +17,7 @@
 	}
 	.navbar-nav li{
 		background-color: skyblue !important;
+		text-align: center;
 	}
 	.navbar-nav li:hover{
 		background-color: #659bb0 !important; 
@@ -25,6 +26,17 @@
 		color: white !important;
 	}
 
+}
+
+@media screen and (max-width: 358px) {
+	
+	.navbar-brand{
+		width: 70%;
+	}
+	.navbar-brand img{
+		width: 80%;
+	}
+	
 }
 
 /* ****************************************
